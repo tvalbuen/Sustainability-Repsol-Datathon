@@ -46,12 +46,12 @@ In Spain’s energy transition, integrating intermittent renewable energy into i
 
 ## 📂 Repository Structure
 
-├── Final_Notebook_V3.ipynb # Final solution notebook with methodology & results
-├── optimizer_sept_CO2_vf.py # Battery optimization maximizing CO₂ avoided
-├── optimizer_sept_Ra_CO2.py # Battery optimization maximizing Ra (self-consumption)
-├── README.md # Project documentation
-├── /processed # Contains input CSVs (solar predictions, consumption)
-├── /raw # Carbon intensity datasets
+- Final_Notebook_V3.ipynb # Final solution notebook with methodology & results
+- optimizer_sept_CO2_vf.py # Battery optimization maximizing CO₂ avoided
+- optimizer_sept_Ra_CO2.py # Battery optimization maximizing Ra (self-consumption)
+- README.md # Project documentation
+- /processed # Contains input CSVs (solar predictions, consumption)
+- /raw # Carbon intensity datasets
 
 ---
 
